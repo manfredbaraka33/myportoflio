@@ -313,7 +313,7 @@ export default function App() {
      <br></br>
       <div className="bg-amber-500 text-black text-center py-2 px-4 text-xs font-bold uppercase tracking-wider">
       Note: Some project backends may be inactive. Please email me to wake them up for a demo!
-    </div>
+    </div>  hyyyyyyy
 
       <main className="pt-20">
         {/* HOME */}
