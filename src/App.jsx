@@ -311,11 +311,11 @@ export default function App() {
       
       <Navbar activeSection={activeSection} />
      <br></br>
+      
+      <main className="pt-20">
       <div className="bg-amber-500 text-black text-center py-2 px-4 text-xs font-bold uppercase tracking-wider">
       Note: Some project backends may be inactive. Please email me to wake them up for a demo!
-    </div>  hyyyyyyy
-
-      <main className="pt-20">
+    </div>  
         {/* HOME */}
         <Section id="home" className="bg-gray-100 dark:bg-gradient-to-br from-gray-900 to-gray-800 text-center">
           <p className={`${ACCENT_COLOR} text-xl font-semibold mb-4`}>Hello, I'm</p>
